@@ -1,0 +1,39 @@
+h1{
+	color:hsl(329, 100%, 95%);
+	font-family: Lobster;
+	font-size: 80px;
+	text-transform: uppercase;
+	background-color: hsla(330, 100%, 25%,0.7);
+}
+
+body{
+	background-color:hsl(60, 20%, 60%);
+    
+}
+
+.round-img{
+
+border-radius: 30px;
+ 
+
+}
+#text{
+	font-family: Georgia;
+	color:hsl(330, 100%, 25%);
+}
+
+h2{
+	font-family: Lobster;
+	color:hsl(330, 100%, 25%);
+
+}
+
+
+h3{font-family: Georgia;
+	color:hsl(340, 100%, 35%);
+
+}
+#product{font-family: Georgia;
+	color:hsl(60, 22%, 15%);
+
+}
